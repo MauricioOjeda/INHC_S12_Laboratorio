@@ -1,0 +1,172 @@
+.Contenido { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1440px;
+	height:1024px;
+	position:absolute;
+}
+.Encabezado { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(3.000000058673322, 171.00000500679016, 129.00000751018524, 1);
+	width:1440px;
+	height:99px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.Encabezado-Texto { 
+	color:rgba(255, 255, 255, 1);
+	width:341px;
+	height:44px;
+	position:absolute;
+	left:36px;
+	top:27px;
+	font-family:Inter;
+	text-align:left;
+	font-size:36px;
+	letter-spacing:0;
+}
+.Cuerpo-Imagen { 
+	width:301px;
+	height:301px;
+	position:absolute;
+	left:569px;
+	top:361px;
+	background-image:url(Pata.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.Boton-1 { 
+	width:198px;
+	height:72px;
+	position:absolute;
+	left:159px;
+	top:735px;
+}
+.Boton-Press-1 { 
+	background-color:rgba(3.000000058673322, 171.00000500679016, 129.00000751018524, 1);
+	width:198px;
+	height:13px;
+	position:absolute;
+	left:0px;
+	top:59px;
+}
+.Boton-Texto-1 { 
+	color:rgba(0, 0, 0, 1);
+	width:64px;
+	height:29px;
+	position:absolute;
+	left:67px;
+	top:0px;
+	font-family:Inter;
+	text-align:center;
+	font-size:24px;
+	letter-spacing:0;
+}
+.Boton-2 { 
+	width:198px;
+	height:72px;
+	position:absolute;
+	left:390px;
+	top:735px;
+}
+.Boton-Press-2 { 
+	background-color:rgba(3.000000058673322, 171.00000500679016, 129.00000751018524, 1);
+	width:198px;
+	height:13px;
+	position:absolute;
+	left:0px;
+	top:59px;
+}
+.Boton-Texto-2 { 
+	color:rgba(0, 0, 0, 1);
+	width:113px;
+	height:29px;
+	position:absolute;
+	left:42px;
+	top:0px;
+	font-family:Inter;
+	text-align:center;
+	font-size:24px;
+	letter-spacing:0;
+}
+.Boton-3 { 
+	width:198px;
+	height:72px;
+	position:absolute;
+	left:621px;
+	top:735px;
+}
+.Boton-Press-3 { 
+	background-color:rgba(3.000000058673322, 171.00000500679016, 129.00000751018524, 1);
+	width:198px;
+	height:13px;
+	position:absolute;
+	left:0px;
+	top:59px;
+}
+.Boton-Texto-3 { 
+	color:rgba(0, 0, 0, 1);
+	width:86px;
+	height:29px;
+	position:absolute;
+	left:55px;
+	top:0px;
+	font-family:Inter;
+	text-align:center;
+	font-size:24px;
+	letter-spacing:0;
+}
+.Boton-4 { 
+	width:198px;
+	height:72px;
+	position:absolute;
+	left:852px;
+	top:735px;
+}
+.Boton-Press-4 { 
+	background-color:rgba(3.000000058673322, 171.00000500679016, 129.00000751018524, 1);
+	width:198px;
+	height:13px;
+	position:absolute;
+	left:0px;
+	top:59px;
+}
+.Boton-Texto-4 { 
+	color:rgba(0, 0, 0, 1);
+	width:119px;
+	height:29px;
+	position:absolute;
+	left:39px;
+	top:0px;
+	font-family:Inter;
+	text-align:center;
+	font-size:24px;
+	letter-spacing:0;
+}
+.Boton-5 { 
+	width:198px;
+	height:72px;
+	position:absolute;
+	left:1083px;
+	top:735px;
+}
+.Boton-Press-5 { 
+	background-color:rgba(3.000000058673322, 171.00000500679016, 129.00000751018524, 1);
+	width:198px;
+	height:13px;
+	position:absolute;
+	left:0px;
+	top:59px;
+}
+.Boton-Texto-5 { 
+	color:rgba(0, 0, 0, 1);
+	width:152px;
+	height:29px;
+	position:absolute;
+	left:22px;
+	top:0px;
+	font-family:Inter;
+	text-align:center;
+	font-size:24px;
+	letter-spacing:0;
+}
